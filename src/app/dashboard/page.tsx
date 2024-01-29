@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export default function Dashboard() {
-  return <button className="rounded-full">Save Changes</button>;
+  return <Button>Save Changes</Button>;
 }
