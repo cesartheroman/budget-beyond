@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Hello, world</div>;
+  return <button className="rounded-full">Hello, world</button>;
 }
